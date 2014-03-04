@@ -15,7 +15,7 @@ public class Main {
 		String destination = "temp";
 		String password = "agua";
 		
-		System.out.println("Empieza la descomprension");
+		System.out.println("Empieza la descomprension.");
 
 		try {
 		    ZipFile zipFile = new ZipFile(source);
